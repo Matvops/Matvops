@@ -13,11 +13,11 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="spring logo"  />
   <img width="12" />
-  <img src="https://icongr.am/devicon/php-original.svg?color=c01c28" alt="JavaScript log" />
+  <img src="https://icongr.am/devicon/php-original.svg?color=c01c28" height="30" alt="JavaScript log" />
   <img width="12" />
-  <img src="https://icongr.am/devicon/laravel-plain-wordmark.svg?color=c01c28" alt="PHP log" />
+  <img src="https://icongr.am/devicon/laravel-plain-wordmark.svg?color=c01c28" height="30" alt="PHP log" />
   <img width="12" />
-  <img src="https://icongr.am/devicon/javascript-original.svg?color=currentColor" alt="Laravel log" />
+  <img src="https://icongr.am/devicon/javascript-original.svg?color=currentColor" height="30" alt="Laravel log" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="12" />
