@@ -2,9 +2,10 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Matvops&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=codeSTACKr&hide_border=false" height="150" alt="languages graph"  />
-</div>
+<p align="center">
+  <img src="./profile/top-langs.svg" height="180em"/>
+</p>
+
 
 
 ###
